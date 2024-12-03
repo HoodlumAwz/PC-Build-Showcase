@@ -1,2 +1,2 @@
 # PC-Build-Showcase
-Me recording what I can and troubleshooting, putting together and building my first gaming PC with no help from Youtube University.
+Documenting the process of building my first gaming PC from scratch, showcasing my ability to troubleshoot and problem-solve independently without relying on external tutorials or guides. This project highlights my technical skills, adaptability, and determination to overcome challenges in a hands-on environment.
